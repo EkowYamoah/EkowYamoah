@@ -24,10 +24,12 @@ I am building **EXON Labs** to develop scalable software systems and intelligent
 
 I am currently building an integrated software ecosystem:
 
-* **Verkko** → Enterprise Resource Planning (ERP)
+[//]: # (* **Verkko** → Enterprise Resource Planning &#40;ERP&#41;)
 * **Klastri** → School Management System
-* **Bisara** → Survey & Data Collection Platform
-* **TEBƐR** → AI-Driven Risk Intelligence System
+
+[//]: # (* **Bisara** → Survey & Data Collection Platform)
+
+[//]: # (* **TEBƐR** → AI-Driven Risk Intelligence System)
 * **Mark-All-Ah** → E-commerce & Digital Marketplace
 
 > Building systems that collect, process, and transform data into actionable intelligence.
@@ -63,7 +65,8 @@ I am interested in building systems at the intersection of:
 * Artificial Intelligence
 * Data Infrastructure
 * Enterprise Software
-* Robotics & Automation
+
+[//]: # (* Robotics & Automation)
 
 With a long-term goal of contributing to **locally-built technology infrastructure and intelligent systems across Africa.**
 
